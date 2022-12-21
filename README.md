@@ -1,1 +1,0 @@
-# vSphere-Inventory-v2-Dashboard-and-Views
